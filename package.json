@@ -1,0 +1,28 @@
+{
+  "name": "codegurukul_practice",
+  "version": "0.0.1",
+  "description": "This is my first web-application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivankmathur/Codegurukul_practice.git"
+  },
+  "keywords": [
+    "education",
+    "web",
+    "design"
+  ],
+  "author": "Shivank Mathur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivankmathur/Codegurukul_practice/issues"
+  },
+  "homepage": "https://github.com/shivankmathur/Codegurukul_practice#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0"
+  }
+}
